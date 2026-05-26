@@ -16,5 +16,12 @@ export const quizQuestions = [
     question: "What is the primary language used to write custom shaders inside WebGL frameworks?",
     options: ["GLSL", "C++", "Python", "TypeScript"],
     correctAnswer: "GLSL"
+  },
+  {
+    id:4,
+    question : "Which React hook is best suited for performing side effects such as data fetching or subscriptions?",
+    options : [ "useState", "useEffect", "useMemo", "useRef"],
+    correctAnswer : "useEffect"
   }
 ];
+
